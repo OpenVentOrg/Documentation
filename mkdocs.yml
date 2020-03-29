@@ -1,0 +1,9 @@
+site_name: OpenVent.org | Open-Source Ventilator Documentation
+nav:
+  - Home: index.md
+  - Developer Documentation: dev.md
+  - Manufacturer Documentation: mfg.md
+  - User Documentation: user.md
+  - Repair Manual: repair.md
+theme:
+    name: readthedocs
