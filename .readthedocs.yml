@@ -1,7 +1,8 @@
 version: 2
 
 mkdoc:
-  configuration: mkdocs.yml
+  configuration:
+    mkdocs.yml
 
 formats:
   all
